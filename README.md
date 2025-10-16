@@ -7,15 +7,10 @@ It helps track total revenue, order status, profit, payment modes, and restauran
 🚀 Objective
 
 To analyze Swiggy’s sales data and visualize key business insights, including:
-
 City-wise and restaurant-wise sales trends
-
 Profit and quantity sold per restaurant
-
 Customer payment preferences
-
 Order status tracking
-
 Monthly order and delivery performance
 
 🧠 Key Insights
