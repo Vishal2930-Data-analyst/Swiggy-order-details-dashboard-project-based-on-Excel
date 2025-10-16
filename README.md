@@ -4,14 +4,23 @@
 The Swiggy Sales Dashboard provides an analytical overview of food delivery performance across multiple cities and restaurants.
 It helps track total revenue, order status, profit, payment modes, and restaurant performance to make data-driven business decisions.
 
+
+
 🚀 Objective
 
 To analyze Swiggy’s sales data and visualize key business insights, including:
+
 City-wise and restaurant-wise sales trends
+
 Profit and quantity sold per restaurant
+
 Customer payment preferences
+
 Order status tracking
+
 Monthly order and delivery performance
+
+
 
 🧠 Key Insights
 
@@ -27,6 +36,8 @@ Most Common Payment Mode: Credit Card (56%)
 
 Top Cities by Sales: Pune, Kolkata, and Hyderabad
 
+
+
 📈 Dashboard Features
 
 Restaurant & Item-wise Sales – Compare performance across menu items and restaurants.
@@ -41,6 +52,8 @@ Order Status Overview – Track delivery progress and cancellations.
 
 Time-based Filters – Filter orders and deliveries by date range.
 
+
+
 🧰 Tools & Technologies
 
 Power BI Desktop – Dashboard design and visualization
@@ -50,6 +63,8 @@ Microsoft Excel – Data cleaning and preprocessing
 DAX (Data Analysis Expressions) – Measures and calculated fields
 
 Power Query – Data transformation and loading
+
+
 
 📅 Project Workflow
 
@@ -65,7 +80,11 @@ Visualization: Created interactive charts, slicers, and KPIs in Power BI.
 
 Dashboard Publishing: Exported as image and published to GitHub repository.
 
+
+
 📸 Dashboard Preview
+
+
 
 💡 Conclusion
 
