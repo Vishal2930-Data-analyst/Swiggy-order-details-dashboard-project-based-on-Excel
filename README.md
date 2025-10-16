@@ -1,99 +1,91 @@
-🍽️ Swiggy Sales Dashboard – Excel Project
-📊 Project Overview
+## 🍽️ Swiggy Sales Dashboard – Excel Project
+## 📊 Project Overview
 
 The Swiggy Sales Dashboard provides an analytical overview of food delivery performance across multiple cities and restaurants.
 It helps track total revenue, order status, profit, payment modes, and restaurant performance to make data-driven business decisions.
 
 
 
-🚀 Objective
+## 🚀 Objective
 
-To analyze Swiggy’s sales data and visualize key business insights, including:
+- To analyze Swiggy’s sales data and visualize key business insights, including:
 
-City-wise and restaurant-wise sales trends
+- City-wise and restaurant-wise sales trends
 
-Profit and quantity sold per restaurant
+- Profit and quantity sold per restaurant
 
-Customer payment preferences
+- Customer payment preferences
 
-Order status tracking
+- Order status tracking
 
-Monthly order and delivery performance
-
-
-
-🧠 Key Insights
-
-Total Revenue: ₹3,46,527
-
-Total Orders: 1,059
-
-Average Order Value: ₹787
-
-Top Performing Restaurant: Biryani Bazaar
-
-Most Common Payment Mode: Credit Card (56%)
-
-Top Cities by Sales: Pune, Kolkata, and Hyderabad
+- Monthly order and delivery performance
 
 
 
-📈 Dashboard Features
+## 🧠 Key Insights
 
-Restaurant & Item-wise Sales – Compare performance across menu items and restaurants.
+- Total Revenue: ₹3,46,527
 
-Profit Analysis – Evaluate profitability for each restaurant.
+- Total Orders: 1,059
 
-City-wise Sales – Understand regional sales distribution.
+- Average Order Value: ₹787
 
-Payment Mode Breakdown – Analyze customer payment preferences (Cash, UPI, Cards).
+- Top Performing Restaurant: Biryani Bazaar
 
-Order Status Overview – Track delivery progress and cancellations.
+- Most Common Payment Mode: Credit Card (56%)
 
-Time-based Filters – Filter orders and deliveries by date range.
-
-
-
-🧰 Tools & Technologies
-
-Power BI Desktop – Dashboard design and visualization
-
-Microsoft Excel – Data cleaning and preprocessing
-
-DAX (Data Analysis Expressions) – Measures and calculated fields
-
-Power Query – Data transformation and loading
+- Top Cities by Sales: Pune, Kolkata, and Hyderabad
 
 
 
-📅 Project Workflow
+## 📈 Dashboard Features
 
-Data Collection: Raw order data extracted from Excel file.
+- Restaurant & Item-wise Sales – Compare performance across menu items and restaurants.
 
-Data Cleaning: Removed duplicates, handled nulls, and formatted columns.
+- Profit Analysis – Evaluate profitability for each restaurant.
 
-Data Transformation: Used Power Query for column splits, merges, and formatting.
+- City-wise Sales – Understand regional sales distribution.
 
-Data Modeling: Built relationships between tables (orders, restaurants, cities).
+- Payment Mode Breakdown – Analyze customer payment preferences (Cash, UPI, Cards).
 
-Visualization: Created interactive charts, slicers, and KPIs in Power BI.
+- Order Status Overview – Track delivery progress and cancellations.
 
-Dashboard Publishing: Exported as image and published to GitHub repository.
-
-
-
-📸 Dashboard Preview
+- Time-based Filters – Filter orders and deliveries by date range.
 
 
 
-💡 Conclusion
+## 🧰 Tools & Technologies
+
+- Microsoft Excel – Data cleaning and preprocessing
+
+- Microsoft Excel - Pivot Charts and tables for Visualization and Analysis
+
+
+
+
+## 📅 Project Workflow
+
+- Data Collection: Raw order data extracted from Excel file.
+
+- Data Cleaning: Removed duplicates, handled nulls, and formatted columns.
+
+- Data Modeling: Built relationships between tables (orders, restaurants, cities).
+
+- Visualization: Created interactive charts, slicers, and KPIs in MS Excel.
+
+- Dashboard Publishing: Exported as image and published to GitHub repository.
+
+
+
+
+## 💡 Conclusion
 
 This dashboard provides valuable business intelligence for Swiggy to:
 
-Identify top-performing cities and restaurants
+- Identify top-performing cities and restaurants
 
-Optimize marketing campaigns
+- Optimize marketing campaigns
 
-Improve delivery performance
+- Improve delivery performance
 
-Understand customer purchase and payment behaviors
+- Understand customer purchase and payment behaviors
